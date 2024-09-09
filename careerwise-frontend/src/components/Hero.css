@@ -1,0 +1,16 @@
+.hero {
+    background: url("C:\Users\sanas\CareerWise\careerwise-frontend\src\assets\background.jpg") no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+  
+  .cta-buttons button {
+    margin: 0.5rem;
+    padding: 1rem 2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

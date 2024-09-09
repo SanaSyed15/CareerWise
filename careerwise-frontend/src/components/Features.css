@@ -1,0 +1,11 @@
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+  }
+  
+  .feature {
+    flex: 1;
+    margin: 1rem;
+    text-align: center;
+  }

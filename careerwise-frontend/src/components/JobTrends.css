@@ -1,0 +1,23 @@
+.job-trends {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .job-trends ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .job-trends li {
+    margin: 0.5rem 0;
+  }
+  
+  .job-trends button {
+    padding: 1rem 2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

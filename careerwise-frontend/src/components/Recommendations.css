@@ -1,0 +1,22 @@
+recommendations {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .recommendations ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recommendations li {
+    margin: 0.5rem 0;
+  }
+  
+  .recommendations button {
+    padding: 1rem 2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
